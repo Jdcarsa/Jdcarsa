@@ -1,8 +1,8 @@
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/2e17be8d-3a33-473c-8afd-14ff2391ecb7" /><div align="center">
+<h3 align="center">Hey there, I'm Jesus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+
+<div align="center">
   <img src="https://i.imgur.com/WQoalAs.jpeg" width="300" height="300" />
 </div>
-
-<h3 align="center">Hey there, I'm Jesus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 ---
 
@@ -32,9 +32,11 @@
   <img src="https://i.imgur.com/DZgetVv.png" alt="GitHub" title="GitHub" height="32"/>
   <!-- Docker -->
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" height="32"/>
-<!-- Databases: Oracle, MySQL, PostgreSQL -->
+  <!-- Databases: Oracle -->
   <img src="https://img.icons8.com/color/48/oracle-logo.png" alt="Oracle" title="Oracle Database" height="32"/>
+  <!-- Databases: MySQL -->
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" title="MySQL Database" height="32"/>
+  <!-- Databases: PostgreSQL -->
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" title="PostgreSQL Database" height="32"/>
   <!-- HTML -->
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" title="HTML" height="32"/>
@@ -44,6 +46,8 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" title="Tailwind CSS" height="32"/>
   <!-- React -->
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React" height="32"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TS" title="TS" height="32"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JS" title="JS" height="32"/>
 </p>
 
 ---
