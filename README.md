@@ -1,4 +1,4 @@
-<div align="center">
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/2e17be8d-3a33-473c-8afd-14ff2391ecb7" /><div align="center">
   <img src="https://i.imgur.com/WQoalAs.jpeg" width="300" height="300" />
 </div>
 
@@ -37,7 +37,7 @@
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" title="MySQL Database" height="32"/>
   <img src="https://img.icons8.com/color/48/postgresql.png" alt="PostgreSQL" title="PostgreSQL Database" height="32"/>
   <!-- HTML -->
-  <img src="html/html.png" alt="HTML" title="HTML" height="32"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" title="HTML" height="32"/>
   <!-- CSS -->
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" title="CSS" height="32"/>
   <!-- Tailwind -->
