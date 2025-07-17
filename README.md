@@ -32,10 +32,12 @@
   <img src="https://i.imgur.com/DZgetVv.png" alt="GitHub" title="GitHub" height="32"/>
   <!-- Docker -->
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" height="32"/>
-  <!-- SQL (Database) -->
-  <img src="https://img.icons8.com/color/48/000000/database--v1.png" alt="SQL Database" title="SQL Database" height="32"/>
+<!-- Databases: Oracle, MySQL, PostgreSQL -->
+  <img src="https://img.icons8.com/color/48/oracle-logo.png" alt="Oracle" title="Oracle Database" height="32"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" title="MySQL Database" height="32"/>
+  <img src="https://img.icons8.com/color/48/postgresql.png" alt="PostgreSQL" title="PostgreSQL Database" height="32"/>
   <!-- HTML -->
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" title="HTML" height="32"/>
+  <img src="html/html.png" alt="HTML" title="HTML" height="32"/>
   <!-- CSS -->
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" title="CSS" height="32"/>
   <!-- Tailwind -->
