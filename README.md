@@ -38,9 +38,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jdcarsa&show_icons=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jdcarsa&layout=compact" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jdcarsa&theme=monokai" alt="GitHub Streak" /></a>
 
 <br>
 
