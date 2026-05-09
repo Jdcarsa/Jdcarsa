@@ -38,11 +38,11 @@
 
 <div align="center">
 
-| ![Jesus github stats](https://github-readme-stats.vercel.app/api?username=Jdcarsa&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jdcarsa&layout=compact) |
-| --- | --- |
-| ![](https://komarev.com/ghpvc/?username=Jdcarsa&color=blue&style=flat) | |
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jdcarsa&show_icons=true" />
 
-<br><br>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jdcarsa&layout=compact" />
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=Jdcarsa&color=blue&style=flat" />
 
@@ -71,7 +71,6 @@
 ---
 
 <div align="center">
-
 
 ### Thanks for visiting my profile 🚀
 
