@@ -22,51 +22,57 @@
 ## 🚀 Tech Stack
 
 <p align="center">
+  
   <!-- .NET -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" title=".NET Core" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" title=".NET Core" height="32"/>
 
-  <!-- Spring Boot -->
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" title="Spring Boot" height="32"/>
+  <!-- Spring -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" height="32"/>
 
   <!-- Laravel -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" title="Laravel" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" title="Laravel" height="32"/>
 
   <!-- Vue -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" height="32"/>
 
   <!-- React -->
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" height="32"/>
 
-  <!-- TypeScript -->
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" title="TypeScript" height="32"/>
+  <!-- TS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="32"/>
 
-  <!-- JavaScript -->
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" title="JavaScript" height="32"/>
+  <!-- JS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="32"/>
 
   <!-- Python -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" height="32"/>
 
   <!-- Docker -->
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" height="32"/>
 
   <!-- Git -->
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" height="32"/>
 
   <!-- GitHub -->
-  <img src="https://i.imgur.com/DZgetVv.png" alt="GitHub" title="GitHub" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" height="32"/>
 
   <!-- MySQL -->
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" title="MySQL" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" height="32"/>
 
   <!-- PostgreSQL -->
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" title="PostgreSQL" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" height="32"/>
+
 </p>
 
 ---
 
-| ![Jesus github stats](https://github-readme-stats.vercel.app/api?username=Jdcarsa&show_icons=true&theme=transparent) | ![Jesus GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jdcarsa&theme=transparent) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jdcarsa&theme=transparent) | ![Github Stats](https://github-readme-stats.vercel.app/api?username=Jdcarsa&show_icons=true&locale=en&count_private=true&hide_rank=true&disable_animations=true&theme=transparent) |
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jdcarsa&show_icons=true&theme=transparent&include_all_commits=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jdcarsa&layout=compact&theme=transparent"/>
+
+</div>
 
 ---
 
@@ -78,4 +84,8 @@
 
 <a href="https://jdcarsa.github.io/">
   <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/>
+</a>
+
+<a href="https://github.com/Jdcarsa">
+  <img width="32px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </a>
