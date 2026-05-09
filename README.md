@@ -38,36 +38,40 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Jdcarsa&color=blue&style=flat)
+<img src="https://github-readme-stats.vercel.app/api?username=Jdcarsa&show_icons=true&count_private=true&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jdcarsa&layout=compact&hide_border=true" height="170"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Jdcarsa&color=blue&style=flat" />
 
 </div>
 
 ---
 
-## 📌 Featured Projects
-
-### 💰 Fintech Platform
-Financial platform developed with .NET focused on business process management and integrations.
-
-### 🏥 Medical Visit Management System
-Web application for scheduling and managing home medical visits using React + Spring Boot.
-
-### ⚙️ Process Automation Tools
-Desktop tools built with Python for automating Excel calculations and internal workflows.
-
----
-
 ## 🤝 Connect with me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jesus-david-cardenas-sandoval-a368652b6/">LinkedIn</a> •
-  <a href="https://jdcarsa.github.io/">Portfolio</a> •
-  <a href="https://github.com/Jdcarsa">GitHub</a>
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/jesus-david-cardenas-sandoval-a368652b6/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://jdcarsa.github.io/">
+  <img src="https://img.icons8.com/fluency/48/domain.png" height="45"/>
+</a>
+
+<a href="https://github.com/Jdcarsa">
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
+
 
 ### Thanks for visiting my profile 🚀
 
