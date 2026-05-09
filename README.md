@@ -36,15 +36,16 @@
 
 ## 📊 GitHub Overview
 
+
 <div align="center">
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jdcarsa&theme=monokai" alt="GitHub Streak" /></a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Jdcarsa&color=blue&style=flat" />
-
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jdcarsa&theme=monokai" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jdcarsa&theme=monokai" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Jdcarsa&theme=monokai" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Jdcarsa&color=blue&style=flat" />
 </div>
+
 
 ---
 
