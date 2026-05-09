@@ -38,9 +38,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jdcarsa&show_icons=true&count_private=true&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jdcarsa&layout=compact&hide_border=true" height="170"/>
+| ![Jesus github stats](https://github-readme-stats.vercel.app/api?username=Jdcarsa&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jdcarsa&layout=compact) |
+| --- | --- |
+| ![](https://komarev.com/ghpvc/?username=Jdcarsa&color=blue&style=flat) | |
 
 <br><br>
 
