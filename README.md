@@ -29,7 +29,7 @@
 ## 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,spring,laravel,vue,react,ts,js,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=dotnet,spring,laravel,react,ts,js,docker,git,github" />
 </div>
 
 ---
