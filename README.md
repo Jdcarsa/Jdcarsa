@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jesus David Cardenas</h1>
 
-<h3 align="center">Full-Stack Developer | Software Engineer Junior</h3>
+<h3 align="center">Developer | Software Engineer</h3>
 
 <div align="center">
   <img src="https://i.imgur.com/WQoalAs.jpeg" width="230" />
